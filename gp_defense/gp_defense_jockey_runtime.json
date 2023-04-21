@@ -245,7 +245,7 @@
           "X": 0.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 11.0,
+          "Y": 15.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -254,7 +254,7 @@
           "X": 0.5,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 11.0,
+          "Y": 13.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -263,7 +263,7 @@
           "X": 0.6,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 10.85,
+          "Y": 11.85,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -476,16 +476,16 @@
     },
     "Type": 1
   },
-  "MinSprintSpeed": 0.28,
+  "MinSprintSpeed": 0.18,
   "FastJockey_zDistanceThreshold": 9.0,
   "FastJockey_BallLookAheadTime": 12.0,
-  "MaxSprintSpeed": 0.35,
-  "SprintSpeed_MinMarkingAttr": 0.6,
+  "MaxSprintSpeed": 0.3,
+  "SprintSpeed_MinMarkingAttr": 0.35,
   "FastJockey_ClampFaceToMove": 45.0,
   "FastJockey_TogglingThreshold": 176.0,
   "FastJockey_FuturePlayerTime": 30.0,
   "FastJockey_ClampFaceToBall": 90.0,
-  "SprintSpeed_MaxMarkingAttr": 0.99,
+  "SprintSpeed_MaxMarkingAttr": 0.79,
   "BaseField": 0,
   "Name": {
     "StrValue": "Fifa/Attribulator/Gameplay/groups/gp_defense/gp_defense_jockey_runtime"

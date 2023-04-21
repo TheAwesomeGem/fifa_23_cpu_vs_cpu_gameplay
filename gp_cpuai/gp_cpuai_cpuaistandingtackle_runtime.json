@@ -11,7 +11,7 @@
           "X": 0.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 1.0,
+          "Y": 2.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -20,7 +20,7 @@
           "X": 0.25,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 1.0,
+          "Y": 2.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -29,7 +29,7 @@
           "X": 0.5,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 1.0,
+          "Y": 2.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -38,7 +38,7 @@
           "X": 0.75,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 1.0,
+          "Y": 2.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         }
@@ -737,7 +737,7 @@
     },
     "Type": 1
   },
-  "CPUAI_StandingTackle_RangeModifier_PlayerDivesIntoTackle": 1.25,
+  "CPUAI_StandingTackle_RangeModifier_PlayerDivesIntoTackle": 1.15,
   "CPUAI_StandingTackle_RangeModifier_AggressionTactic": 1.05,
   "BaseField": 0,
   "Name": {

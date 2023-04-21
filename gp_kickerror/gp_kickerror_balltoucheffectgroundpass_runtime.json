@@ -210,12 +210,12 @@
     0.0,
     0.0
   ],
-  "ERROR_CONDITION_ImpactDirection_RotationPitchEffect": [
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0
+ "ERROR_CONDITION_ImpactDirection_RotationPitchEffect": [
+    1.2,
+    1.2,
+    1.2,
+    1.2,
+    1.2
   ],
   "DirectionErrorRateVsAttribute": {
     "External": {
@@ -238,7 +238,7 @@
           "X": 0.7,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.5,
+          "Y": 0.4,
           "InTangentOffsetX": -0.09989995,
           "OutTangentOffsetX": 0.09990001
         },
@@ -256,13 +256,13 @@
           "X": 0.9,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.95,
+          "Y": 0.96,
           "InTangentOffsetX": -0.09989995,
           "OutTangentOffsetX": 0.08990002
         },
         {
           "CurveType": 2,
-          "X": 0.99,
+          "X": 1.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
           "Y": 1.0,
@@ -818,7 +818,7 @@
       "Points": [
         {
           "CurveType": 2,
-          "X": 45.0,
+          "X": 65.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
           "Y": 1.0,
@@ -827,7 +827,7 @@
         },
         {
           "CurveType": 2,
-          "X": 55.0,
+          "X": 75.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
           "Y": 0.5,
@@ -860,11 +860,11 @@
     0.0
   ],
   "ERROR_CONDITION_ImpactDirection_RotationRollEffect": [
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0
+    1.2,
+    1.2,
+    1.2,
+    1.2,
+    1.2
   ],
   "ERROR_MISS_UpperHit_RotationRollEffect": [
     0.0,
@@ -881,18 +881,18 @@
     1.0
   ],
   "ERROR_CONDITION_SideHit_RotationPitchEffect": [
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0
+    1.2,
+    1.2,
+    1.2,
+    1.2,
+    1.2
   ],
   "ERROR_CONDITION_SideHit_RotationRollEffect": [
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0
+    1.2,
+    1.2,
+    1.2,
+    1.2,
+    1.2
   ],
   "ERROR_MISS_SideHit_ElevationAngleEffect": [
     0.0,
@@ -947,7 +947,7 @@
         },
         {
           "CurveType": 2,
-          "X": 0.8,
+          "X": 1.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
           "Y": 0.5,

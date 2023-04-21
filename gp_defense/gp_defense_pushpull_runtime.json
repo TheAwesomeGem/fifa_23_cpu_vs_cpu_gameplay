@@ -1,7 +1,7 @@
 {
   "PushPull_FallContextRecoverBalance": [
-    0.75,
-    1.25
+    0.25,
+    3.0
   ],
   "PushPull_FallHarassmentIncreaseHold": {
     "External": {
@@ -98,8 +98,8 @@
     0.75
   ],
   "PushPull_FallContextIncreaseBalance": [
-    1.25,
-    0.75
+    3.0,
+    1.0
   ],
   "PushPull_HeldSpeedAdjust_Strength": {
     "External": {
@@ -230,7 +230,7 @@
           "X": 0.55,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.8999999,
+          "Y": 1.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -239,7 +239,7 @@
           "X": 0.65,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.9500005,
+          "Y": 1.5,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -248,7 +248,7 @@
           "X": 0.75,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 1.05,
+          "Y": 2.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -257,7 +257,7 @@
           "X": 0.85,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 1.18,
+          "Y": 3.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -266,7 +266,7 @@
           "X": 0.9,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 1.25,
+          "Y": 3.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         }
@@ -1005,13 +1005,13 @@
     },
     "Type": 1
   },
-  "PushPull_FallThreshold": 0.85,
+  "PushPull_FallThreshold": 0.5,
   "PushPull_TicksIntoReactForStumble": 6.0,
   "PushPull_MedIntensityThreshold": 0.4,
   "PushPull_FallHarassmentIncreaseRate": 45.0,
-  "PushPull_HighIntensityThreshold": 0.85,
+  "PushPull_HighIntensityThreshold": 0.5,
   "PushPull_TicksBeforeTouchForStumble": 4.0,
-  "PushPull_FallHarassmentRecoverRate": 0.65,
+  "PushPull_FallHarassmentRecoverRate": 0.01,
   "BaseField": 0,
   "Name": {
     "StrValue": "Fifa/Attribulator/Gameplay/groups/gp_defense/gp_defense_pushpull_runtime"
