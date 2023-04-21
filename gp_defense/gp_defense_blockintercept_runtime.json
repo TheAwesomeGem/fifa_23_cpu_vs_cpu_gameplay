@@ -1,0 +1,629 @@
+{
+  "BlockErrorActualTrajTimeDifficult": [
+    44.0,
+    44.0,
+    44.0,
+    44.0,
+    43.5,
+    43.0,
+    42.0,
+    38.0,
+    32.0,
+    25.0,
+    20.0
+  ],
+  "BlockErrorFullErrorTimeEasy": [
+    20.0,
+    20.0,
+    20.0,
+    20.0,
+    19.5,
+    19.0,
+    18.0,
+    16.0,
+    14.0,
+    8.0,
+    0.0
+  ],
+  "BlockDistanceUserUrgentAuto": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 3.5,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.09341012
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 5.0,
+          "InTangentOffsetX": -0.100000024,
+          "OutTangentOffsetX": 0.100000024
+        },
+        {
+          "CurveType": 2,
+          "X": 1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 6.5,
+          "InTangentOffsetX": -0.09082812,
+          "OutTangentOffsetX": 0.099999905
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "30410afd-ef98-aa5b-8508-237f25e1a6e0",
+        "InternalId": 7,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "BlockForceMinDistanceFromOpponent": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 9.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.25,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 9.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.5,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 9.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.6,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 8.5,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.7,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 8.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 7.5,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.9,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 7.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 6.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "9fde4cca-ca2c-4dba-d39e-f45a04c9c832",
+        "InternalId": 5,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "BlockErrorElevAngleRangeMin": [
+    5.0,
+    5.0,
+    5.0,
+    4.5,
+    4.0,
+    3.5,
+    3.0,
+    2.0,
+    1.2,
+    0.5,
+    0.0
+  ],
+  "BlockDistanceUserUrgentManual": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 6.0,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.09341012
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 7.0,
+          "InTangentOffsetX": -0.100000024,
+          "OutTangentOffsetX": 0.100000024
+        },
+        {
+          "CurveType": 2,
+          "X": 1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 7.0,
+          "InTangentOffsetX": -0.09082812,
+          "OutTangentOffsetX": 0.099999905
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "82c91771-a418-8728-172c-6a0e4a6c4cac",
+        "InternalId": 3,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "BlockErrorFullErrorTimeDifficult": [
+    40.0,
+    40.0,
+    40.0,
+    40.0,
+    40.0,
+    39.0,
+    37.0,
+    33.0,
+    26.0,
+    20.0,
+    16.0
+  ],
+  "BlockAnticipateMinOppAnimTime": [
+    24.0,
+    23.0,
+    22.0,
+    20.0,
+    18.0,
+    16.0,
+    14.0,
+    12.0,
+    8.0,
+    2.0,
+    0.0
+  ],
+  "BlockDistanceAiUrgent": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 2.35,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.09341012
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 3.0,
+          "InTangentOffsetX": -0.03402424,
+          "OutTangentOffsetX": 0.07428938
+        },
+        {
+          "CurveType": 2,
+          "X": 1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 3.25,
+          "InTangentOffsetX": -0.08990002,
+          "OutTangentOffsetX": 0.099999905
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "cf03062a-1fb9-1440-2452-102390f992d7",
+        "InternalId": 1,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "BlockErrorXZAngleRangeMax": [
+    20.0,
+    20.0,
+    20.0,
+    19.5,
+    19.0,
+    18.0,
+    17.0,
+    15.0,
+    12.0,
+    8.0,
+    3.0
+  ],
+  "BlockErrorElevAngleRangeMax": [
+    12.0,
+    12.0,
+    12.0,
+    11.8,
+    11.0,
+    10.0,
+    9.0,
+    8.0,
+    7.0,
+    5.0,
+    3.0
+  ],
+  "BlockErrorXZAngleRangeMin": [
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    9.5,
+    9.0,
+    8.5,
+    7.0,
+    5.0,
+    2.0,
+    0.5
+  ],
+  "BlockDistanceUserUrgentManualSlide": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 8.0,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.09341012
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 8.5,
+          "InTangentOffsetX": -0.100000024,
+          "OutTangentOffsetX": 0.100000024
+        },
+        {
+          "CurveType": 2,
+          "X": 1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 9.0,
+          "InTangentOffsetX": -0.09082812,
+          "OutTangentOffsetX": 0.099999905
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "1e213861-c29e-f3e7-b8d1-3fbc82597c6d",
+        "InternalId": 2,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "BlockMinReactTimeToUpdateAnim": [
+    8.0,
+    8.0,
+    8.0,
+    7.0,
+    6.0,
+    4.0,
+    2.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "BlockDistanceByVelocity": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": -1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.25,
+          "InTangentOffsetX": -0.099999905,
+          "OutTangentOffsetX": 0.100000024
+        },
+        {
+          "CurveType": 2,
+          "X": -0.75,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.6,
+          "InTangentOffsetX": -0.100000024,
+          "OutTangentOffsetX": 0.100000024
+        },
+        {
+          "CurveType": 2,
+          "X": -0.57,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.8,
+          "InTangentOffsetX": -0.10000014,
+          "OutTangentOffsetX": 0.100000024
+        },
+        {
+          "CurveType": 2,
+          "X": -0.2,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 1.0,
+          "InTangentOffsetX": -0.10000001,
+          "OutTangentOffsetX": 0.100000024
+        }
+      ],
+      "MaxX": 0.0,
+      "MinX": -1.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "2b60e7f3-7765-2496-c42f-8d8520578c38",
+        "InternalId": 6,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "BlockErrorSpeedRange": [
+    0.3,
+    0.3,
+    0.3,
+    0.25,
+    0.2,
+    0.15,
+    0.1,
+    0.05,
+    0.025,
+    0.0,
+    0.0
+  ],
+  "BlockDistanceNonUrgent": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 3.0,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.099690646
+        },
+        {
+          "CurveType": 2,
+          "X": 0.1,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 3.1,
+          "InTangentOffsetX": -0.099690646,
+          "OutTangentOffsetX": 0.0999
+        },
+        {
+          "CurveType": 2,
+          "X": 0.2,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 3.2,
+          "InTangentOffsetX": -0.0999,
+          "OutTangentOffsetX": 0.09990002
+        },
+        {
+          "CurveType": 2,
+          "X": 0.3,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 3.3,
+          "InTangentOffsetX": -0.09990001,
+          "OutTangentOffsetX": 0.0968993
+        },
+        {
+          "CurveType": 2,
+          "X": 0.4,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 3.4,
+          "InTangentOffsetX": -0.0968993,
+          "OutTangentOffsetX": 0.09990001
+        },
+        {
+          "CurveType": 2,
+          "X": 0.5,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 3.9,
+          "InTangentOffsetX": -0.09990001,
+          "OutTangentOffsetX": 0.100000024
+        },
+        {
+          "CurveType": 2,
+          "X": 0.6029309,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 4.0,
+          "InTangentOffsetX": -0.100000024,
+          "OutTangentOffsetX": 0.09271228
+        },
+        {
+          "CurveType": 2,
+          "X": 0.7,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 4.2,
+          "InTangentOffsetX": -0.09271228,
+          "OutTangentOffsetX": 0.09962088
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 5.2,
+          "InTangentOffsetX": -0.09962088,
+          "OutTangentOffsetX": 0.09871364
+        },
+        {
+          "CurveType": 2,
+          "X": 0.9,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 6.6,
+          "InTangentOffsetX": -0.09871364,
+          "OutTangentOffsetX": 0.09990001
+        },
+        {
+          "CurveType": 2,
+          "X": 1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 7.0,
+          "InTangentOffsetX": -0.09990001,
+          "OutTangentOffsetX": 0.100000024
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "7b3be59a-25e2-cf46-9f3e-90e1e055941a",
+        "InternalId": 4,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "BlockErrorActualTrajTimeEasy": [
+    24.0,
+    24.0,
+    24.0,
+    23.5,
+    23.0,
+    22.0,
+    21.0,
+    19.0,
+    16.0,
+    10.0,
+    0.0
+  ],
+  "BlockGoalLineMaxDistance": 6.0,
+  "BlockNoErrorDelayDist": 1.5,
+  "Disrupt_Intercept_InputDistNear": 3.0,
+  "BlockNoErrorDelayHeight": 1.5,
+  "BlockEasyBallSpeed": 1.0,
+  "Disrupt_Intercept_InputRangeFar": 22.5,
+  "InterceptCostFactorTime": 3.0,
+  "InterceptMinStrafeSpeed": 0.1,
+  "InterceptRunSpeed": 0.35,
+  "InterceptCostFactorAngle": 0.1,
+  "Disrupt_Intercept_InputRangeNear": 60.0,
+  "BlockBehindBallAngle": 90.0,
+  "BlockMaxDistance": 10.0,
+  "BlockEasyBallElevationAngle": 5.0,
+  "DistFullBlockAnticipateMinOppAnimTime": 10.0,
+  "InterceptCostFactorHeight": 3.0,
+  "BlockHighDerterminationAgilityThreshold": 0.8,
+  "BlockNoErrorDelayDistAIBlock": 1.5,
+  "BlockUseFullErrorDelayHeight": 3.0,
+  "BlockMaxHeight": 5.0,
+  "BlockUseFullErrorDelayDistAIBlock": 1.8,
+  "BlockNumFramesToContact": 10.0,
+  "BlockMaxAnglePlayerFacingToBall": 90.0,
+  "InterceptJogSpeed": 0.2,
+  "BlockDifficultBallSpeed": 1.5,
+  "Disrupt_Intercept_DistanceFromFuturePos": 7.5,
+  "DistNoBlockAnticipateMinOppAnimTime": 6.0,
+  "BlockHighDerterminationAggressionThreshold": 0.75,
+  "BlockUseFullErrorDelayDist": 2.5,
+  "BlockReflexTicks": 17.0,
+  "BlockReflexDistance": 4.0,
+  "Disrupt_Intercept_InputDistFar": 25.0,
+  "BlockDifficultElevationAngle": 15.0,
+  "InterceptCostFactorXZ": 3.0,
+  "BaseField": 0,
+  "Name": {
+    "StrValue": "Fifa/Attribulator/Gameplay/groups/gp_defense/gp_defense_blockintercept_runtime"
+  },
+  "__InstanceGuid": {
+    "ExportedGuid": "8746643b-2a5c-97d8-9f53-e9ba826e8cca",
+    "InternalId": 0,
+    "IsExported": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "error_right_miss_range": 12.0,
+  "sliding_friction": 0.32,
+  "normal_pitch_neg_range": 90.0,
+  "clamp_increase_on_error": 0.25,
+  "error_velocity_percentage_range_down": 0.15,
+  "Soccerball_GripConstant": 0.96,
+  "normal_max_clamp": 35.0,
+  "BallRestitutionReductionMax": 0.22,
+  "normal_pitch_pos_range": 90.0,
+  "error_normal_yaw_pos_range": 15.0,
+  "BallRestitutionMinSpeed": 15.0,
+  "contact_velocity_in_plane_range": 1.0,
+  "normal_yaw_neg_range": 180.0,
+  "error_restitution_dropoff": 0.1,
+  "error_left_miss_range": 12.0,
+  "BallRestitutionMaxSpeed": 30.0,
+  "restitution": 0.555,
+  "contact_velocity_percentage_range": 1.0,
+  "error_normal_yaw_neg_range": 15.0,
+  "error_normal_pitch_neg_range": 30.0,
+  "player_vs_ball_restitution": 0.5,
+  "error_restitution_range": 0.0,
+  "contact_velocity_min": 1.0,
+  "spin_friction": 0.16,
+  "restitution_lower_bound": 0.25,
+  "normal_yaw_pos_range": 180.0,
+  "contact_velocity_mirror_percentage": -0.4,
+  "error_normal_pitch_pos_range": 30.0,
+  "error_velocity_percentage_range_up": 0.5,
+  "BaseField": 0,
+  "Name": {
+    "StrValue": "Fifa/Attribulator/Gameplay/groups/gp_physics/gp_physics_touchcontactsdribble_runtime"
+  },
+  "__InstanceGuid": {
+    "ExportedGuid": "8b21e489-4a78-c20a-d578-a2ce246bb18e",
+    "InternalId": 0,
+    "IsExported": true
+  }
+}

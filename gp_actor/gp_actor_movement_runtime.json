@@ -1,0 +1,1563 @@
+{
+  "ATTR_AccelerationReductionByShortTermFatigue": [
+    0.45,
+    0.4,
+    0.35,
+    0.3,
+    0.25,
+    0.23,
+    0.21,
+    0.17,
+    0.15,
+    0.11,
+    0.07,
+    0.06,
+    0.05,
+    0.04,
+    0.02,
+    0.01,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "DribbleTrapJogBallTargetFarRange": [
+    3.0,
+    3.0,
+    3.0,
+    3.0,
+    3.0,
+    3.0,
+    3.0,
+    3.05,
+    3.1,
+    3.15,
+    3.2,
+    3.25,
+    3.3,
+    3.4,
+    3.5,
+    3.6,
+    4.0,
+    5.0,
+    6.5,
+    10.0,
+    16.0
+  ],
+  "ATTR_AnimationPlaybackTimeRatioScaleByHeightDribbling": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 5.25,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 1.0,
+          "InTangentOffsetX": -0.175,
+          "OutTangentOffsetX": 0.175
+        },
+        {
+          "CurveType": 2,
+          "X": 5.6,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 1.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 5.95,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 1.01,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 6.3,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 1.044,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 6.65,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 1.067,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 7.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 1.101,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        }
+      ],
+      "MaxX": 7.0,
+      "MinX": 5.25,
+      "__InstanceGuid": {
+        "ExportedGuid": "7d7d17c7-4d58-340f-3f74-7ead330c4ae8",
+        "InternalId": 11,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "DribbleTrapSprintBallTargetFarRange": [
+    4.0,
+    4.1,
+    4.2,
+    4.3,
+    4.4,
+    4.5,
+    4.7,
+    4.9,
+    5.2,
+    5.4,
+    5.7,
+    6.0,
+    6.3,
+    6.6,
+    7.0,
+    7.5,
+    8.0,
+    9.0,
+    11.0,
+    16.0,
+    22.0
+  ],
+  "TrapFlickUpPowerGraph": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.7,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.3,
+          "InTangentOffsetX": -0.100000024,
+          "OutTangentOffsetX": 0.09989995
+        },
+        {
+          "CurveType": 2,
+          "X": 0.9,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.5,
+          "InTangentOffsetX": -0.09989995,
+          "OutTangentOffsetX": 0.062243104
+        },
+        {
+          "CurveType": 0,
+          "X": 1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 1.0,
+          "InTangentOffsetX": -0.0001,
+          "OutTangentOffsetX": 0.10000014
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "1ef4c198-5579-335c-5ff3-7d22f31649bb",
+        "InternalId": 10,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "TrapJogBallTargetAngleRange": [
+    15.0,
+    15.0,
+    15.0,
+    15.0,
+    15.0,
+    15.0,
+    15.0,
+    15.0,
+    15.0,
+    15.0,
+    15.0
+  ],
+  "DribbleTrapJogBallTargetNearRange": [
+    3.0,
+    3.1,
+    3.2,
+    3.3,
+    3.4,
+    3.5,
+    3.7,
+    3.9,
+    4.2,
+    4.4,
+    4.7,
+    5.0,
+    5.3,
+    5.6,
+    6.0,
+    6.5,
+    7.2,
+    8.0,
+    9.0,
+    10.0,
+    12.0
+  ],
+  "ATTR_ReactionTimeRate": [
+    0.8,
+    0.82,
+    0.84,
+    0.86,
+    0.88,
+    0.9,
+    0.92,
+    0.94,
+    0.96,
+    0.98,
+    1.0
+  ],
+  "ATTR_SprintSpeedFatiguedTblMinMax_Fast": [
+    0.34,
+    0.385
+  ],
+  "DribbleJogBallTargetAngleRange": [
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    11.0,
+    12.0,
+    13.5,
+    15.0
+  ],
+  "AnimationPlaybackTimeRatioTrappingAfterTouch": [
+    1.05,
+    1.045,
+    1.035,
+    1.025,
+    1.015,
+    1.01,
+    1.005,
+    1.0,
+    0.96,
+    0.9,
+    0.86
+  ],
+  "AnimationPlaybackTimeRatioBlocks": [
+    1.8,
+    1.7,
+    1.6,
+    1.5,
+    1.4,
+    1.3,
+    1.2,
+    1.1,
+    1.0,
+    0.9,
+    0.8
+  ],
+  "ATTR_DribbleSprintTouchSlowdownSpeed": [
+    0.025,
+    0.0245,
+    0.0238,
+    0.023,
+    0.0223,
+    0.0215,
+    0.0198,
+    0.018,
+    0.0165,
+    0.015,
+    0.0125
+  ],
+  "DribbleAccelBoostScaleStrafe": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 2.0,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 2.0,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 0.85,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 6.0,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 8.0,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "f1446d70-9e35-31cb-4aaa-d58a9df41ab8",
+        "InternalId": 6,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "ATTR_SprintAccelerationTblMinMax": [
+    0.01333333,
+    0.01666667
+  ],
+  "DribbleAccelBoostScale": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 2.0,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 2.0,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 0.85,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 2.5,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 0.9982548,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 3.2222223,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "b74151e0-df96-a72c-ba15-0a6ec98c9e25",
+        "InternalId": 12,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "ATTR_SkillMovesTimeRatioForDribble": [
+    1.005,
+    1.004,
+    1.003,
+    1.002,
+    1.001,
+    1.0,
+    0.97,
+    0.936,
+    0.9,
+    0.86,
+    0.82
+  ],
+  "ATTR_SprintReduceTbl": [
+    0.0,
+    0.25,
+    0.5,
+    0.65,
+    0.8,
+    0.9,
+    0.95,
+    0.98,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "DribbleAgileMinBranchTimeAfterContactDifficult": [
+    40.0,
+    39.0,
+    38.0,
+    36.0,
+    32.0,
+    29.0,
+    25.0,
+    22.0,
+    16.0,
+    12.0,
+    8.0
+  ],
+  "AnimationPlaybackTimeRatioHeading": [
+    1.2,
+    1.2,
+    1.2,
+    1.2,
+    1.2,
+    1.19,
+    1.16,
+    1.08,
+    1.0,
+    0.9,
+    0.8
+  ],
+  "DribbleTrapSprintBallTargetNearRange": [
+    4.0,
+    4.0,
+    4.0,
+    4.0,
+    4.0,
+    4.0,
+    4.1,
+    4.2,
+    4.3,
+    4.4,
+    4.6,
+    4.8,
+    5.0,
+    5.5,
+    5.8,
+    6.2,
+    6.6,
+    7.0,
+    8.0,
+    9.0,
+    10.0
+  ],
+  "AnimationPlaybackTimeRatioDribblingPPAfterTouch": [
+    1.05,
+    1.04,
+    1.03,
+    1.02,
+    1.01,
+    1.0,
+    0.98,
+    0.96,
+    0.93,
+    0.9,
+    0.86
+  ],
+  "DribbleAccelBoostDurationStrafe": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 40.0,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 0.85,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 40.0,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 60.0,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "5671f840-df6b-48f9-f8da-f283d8c20e4f",
+        "InternalId": 3,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "ATTR_AnimationPlaybackTimeRatioScaleByHeight": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 5.25,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 1.0,
+          "InTangentOffsetX": -0.175,
+          "OutTangentOffsetX": 0.175
+        },
+        {
+          "CurveType": 2,
+          "X": 5.6,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 1.02,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 5.95,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 1.042,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 6.3,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 1.064,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 6.65,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 1.087,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 7.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 1.111,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        }
+      ],
+      "MaxX": 7.0,
+      "MinX": 5.25,
+      "__InstanceGuid": {
+        "ExportedGuid": "b33eba89-d66a-4cd6-648d-803695dfc4cd",
+        "InternalId": 8,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "DribbleSprintSlowdownStartRate": [
+    0.1,
+    0.105,
+    0.11,
+    0.115,
+    0.12,
+    0.135,
+    0.15,
+    0.165,
+    0.18,
+    0.2,
+    0.22,
+    0.24,
+    0.26,
+    0.295,
+    0.33,
+    0.345,
+    0.36,
+    0.375,
+    0.4,
+    0.425,
+    0.47
+  ],
+  "ATTR_SprintSpeedTblMinMax_Normal": [
+    0.42,
+    0.5
+  ],
+  "DribbleTrapBallTargetExtraAngle": [
+    0.0,
+    0.0,
+    1.0,
+    2.0,
+    3.0,
+    4.0,
+    5.0,
+    7.5,
+    12.5,
+    28.0,
+    55.0
+  ],
+  "ATTR_DribbleJogSpeedModifier": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.01,
+    0.02,
+    0.03
+  ],
+  "DribbleTrapMinBranchTimeAfterContactEasy": [
+    10.0,
+    10.0,
+    8.0,
+    8.0,
+    6.0,
+    6.0,
+    4.0,
+    2.0,
+    2.0,
+    0.0,
+    0.0
+  ],
+  "DribbleAccelBoostExitMaxSpeedStrafe": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.3,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 0.85,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.3,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.4,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "45027f00-be2f-5d17-63ec-7fa95a037baa",
+        "InternalId": 1,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "ATTR_SprintSpeedTbl": [
+    0.0,
+    0.01,
+    0.02,
+    0.035,
+    0.05,
+    0.067,
+    0.085,
+    0.105,
+    0.125,
+    0.15,
+    0.175,
+    0.21,
+    0.252,
+    0.294,
+    0.348,
+    0.402,
+    0.515,
+    0.655,
+    0.812,
+    0.948,
+    1.0
+  ],
+  "ATTR_DribbleInterruptDelay": [
+    30.0,
+    30.0,
+    30.0,
+    29.0,
+    28.0,
+    27.0,
+    25.0,
+    20.0,
+    15.0,
+    12.0,
+    10.0
+  ],
+  "DribbleAccelBoostExitMinSpeed": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.2,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.2,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.25,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "18df6af1-3e8a-0ee6-473a-24bf917df8f6",
+        "InternalId": 13,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "AnimationPlaybackTimeRatioDribblingPP": [
+    1.05,
+    1.04,
+    1.02,
+    1.0,
+    0.98,
+    0.96,
+    0.93,
+    0.9,
+    0.87,
+    0.84,
+    0.8
+  ],
+  "TrapSprintBallTargetAngleRange": [
+    15.0,
+    15.0,
+    15.0,
+    15.0,
+    15.0,
+    15.0,
+    15.0,
+    15.0,
+    15.0,
+    15.0,
+    15.0
+  ],
+  "DribbleTrapBallTargetAngleRangeInAssist": [
+    45.0,
+    45.0,
+    45.0,
+    45.0,
+    45.0,
+    45.0,
+    45.0,
+    45.0,
+    45.0,
+    45.0,
+    45.0
+  ],
+  "DribbleSprintSlowdownRate": [
+    0.35,
+    0.355,
+    0.36,
+    0.37,
+    0.38,
+    0.4,
+    0.42,
+    0.445,
+    0.47,
+    0.495,
+    0.52,
+    0.54,
+    0.56,
+    0.58,
+    0.6,
+    0.62,
+    0.64,
+    0.66,
+    0.7,
+    0.74,
+    0.83
+  ],
+  "DribbleSprintTouchSlowdownSpeedByAngle": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 2.5,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.001,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 5.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.002,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 7.5,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.0035,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 12.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.006,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 20.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.016,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 30.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.018,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 45.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.02,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        }
+      ],
+      "MaxX": 45.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "9b19983d-2270-686b-9ee9-70d7e6b0e4a8",
+        "InternalId": 2,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "AnimationPlaybackTimeRatioTrapping": [
+    1.2,
+    1.2,
+    1.2,
+    1.2,
+    1.2,
+    1.19,
+    1.16,
+    1.08,
+    1.0,
+    0.9,
+    0.8
+  ],
+  "DribbleTrapMinBranchTimeAfterContactDifficult": [
+    40.0,
+    39.0,
+    38.0,
+    36.0,
+    32.0,
+    29.0,
+    25.0,
+    22.0,
+    16.0,
+    12.0,
+    8.0
+  ],
+  "AnimationPlaybackTimeRatioSlidingDribbling": [
+    1.1,
+    1.095,
+    1.09,
+    1.08,
+    1.06,
+    1.04,
+    1.02,
+    1.0,
+    0.98,
+    0.94,
+    0.9
+  ],
+  "ATTR_SprintSpeedFatiguedTbl": [
+    0.0,
+    0.01,
+    0.02,
+    0.035,
+    0.05,
+    0.067,
+    0.085,
+    0.105,
+    0.125,
+    0.15,
+    0.175,
+    0.21,
+    0.252,
+    0.294,
+    0.348,
+    0.402,
+    0.515,
+    0.655,
+    0.812,
+    0.948,
+    1.0
+  ],
+  "DribbleAccelBoostExitMinSpeedStrafe": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.2,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 0.85,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.2,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.3,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "8798ef6f-5464-caed-116a-9ef14aeedbb0",
+        "InternalId": 5,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "DribbleAccelBoostExitMaxSpeed": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.3,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.3,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.35,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "039c058b-821b-73da-6acd-a82db765c478",
+        "InternalId": 9,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "DribbleAgileMinBranchTimeAfterContactEasy": [
+    10.0,
+    10.0,
+    8.0,
+    8.0,
+    6.0,
+    6.0,
+    4.0,
+    2.0,
+    2.0,
+    0.0,
+    0.0
+  ],
+  "ATTR_SprintSpeedFatiguedTblMinMax_Normal": [
+    0.33,
+    0.375
+  ],
+  "AnimationPlaybackTimeRatioPassing": [
+    1.2,
+    1.2,
+    1.2,
+    1.2,
+    1.2,
+    1.19,
+    1.16,
+    1.08,
+    1.0,
+    0.9,
+    0.8
+  ],
+  "ATTR_SprintSpeedTblMinMax_Slow": [
+    0.4,
+    0.48
+  ],
+  "ATTR_SprintAccelerationTbl": [
+    0.0,
+    0.005,
+    0.014,
+    0.022,
+    0.033,
+    0.046,
+    0.06,
+    0.076,
+    0.09,
+    0.112,
+    0.134,
+    0.164,
+    0.192,
+    0.234,
+    0.288,
+    0.342,
+    0.44,
+    0.625,
+    0.79,
+    0.948,
+    1.0
+  ],
+  "DribbleMinTouchTimeByChopFrame": [
+    9.0,
+    9.0,
+    9.0,
+    8.0,
+    7.5,
+    7.0,
+    6.0,
+    5.0,
+    4.5,
+    4.0,
+    4.0
+  ],
+  "DribbleTrapSprintBallTargetDefaultRatio": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.48,
+    0.47,
+    0.44,
+    0.37,
+    0.31
+  ],
+  "DribbleTrapWalkBallTargetDefaultRatio": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.49,
+    0.42,
+    0.36,
+    0.26,
+    0.2
+  ],
+  "ATTR_SprintSpeedFatiguedTblMinMax_Slow": [
+    0.32,
+    0.365
+  ],
+  "ATTR_SprintSpeedTblMinMax_Fast": [
+    0.44,
+    0.52
+  ],
+  "DribbleTrapJogBallTargetDefaultRatio": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.49,
+    0.42,
+    0.36,
+    0.26,
+    0.2
+  ],
+  "DribbleSprintBallTargetAngleRange": [
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    11.0,
+    12.0,
+    13.5,
+    15.0
+  ],
+  "ATTR_SkillMovesTimeRatioForLowSkillAnim": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.98,
+    0.94
+  ],
+  "DribbleAccelBoostDuration": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 40.0,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 40.0,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "f9bf714b-73c1-ab78-4595-68b73da827fb",
+        "InternalId": 4,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "ATTR_DribbleMinTouchTime": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 6.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 45.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 6.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 90.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 8.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 135.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 9.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 180.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 9.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 180.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 9.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 180.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 9.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 180.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 9.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        }
+      ],
+      "MaxX": 180.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "f77cc774-cf75-0b4f-9657-3bdce82d5ac2",
+        "InternalId": 7,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "AnimationPlaybackTimeRatioDribbling": [
+    1.05,
+    1.045,
+    1.04,
+    1.025,
+    1.0,
+    0.95,
+    0.9,
+    0.85,
+    0.82,
+    0.78,
+    0.74
+  ],
+  "AnimationPlaybackTimeRatioShooting": [
+    1.2,
+    1.2,
+    1.2,
+    1.2,
+    1.2,
+    1.19,
+    1.16,
+    1.08,
+    1.0,
+    0.9,
+    0.8
+  ],
+  "ATTR_TurnTimeRatioForDribble": [
+    1.05,
+    1.03,
+    1.02,
+    1.015,
+    1.01,
+    1.0,
+    0.99,
+    0.975,
+    0.95,
+    0.913,
+    0.875
+  ],
+  "AnimationPlaybackTimeRatioStandTackling": [
+    1.6,
+    1.6,
+    1.6,
+    1.6,
+    1.5,
+    1.4,
+    1.3,
+    1.1,
+    1.05,
+    0.95,
+    0.9
+  ],
+  "ATTR_TurnIntensityClampForRun": [
+    0.6,
+    0.65,
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.9,
+    0.95,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "AnimationPlaybackTimeRatioStrafeDribbling": [
+    1.045,
+    1.04,
+    1.03,
+    1.02,
+    0.99,
+    0.94,
+    0.88,
+    0.83,
+    0.79,
+    0.75,
+    0.72
+  ],
+  "DribbleFootStepBranchMaxDelayTimeBest": 2.0,
+  "SprintAccelerationBoost_Scalar_Dribble_Explosive_LowSpeed": 3.0,
+  "SprintAccelerationBoost_Scalar_Dribble_Controlled_HighSpeed": 3.0,
+  "ATTR_JogSpeed": 0.3,
+  "GameSpeedSlowLowerRange": 0.12,
+  "GameSpeedSlowUpperRange": 0.55,
+  "DribbleTrapJogBallTargetTime": 40.0,
+  "GameSpeedNormalUpperRange": 0.6,
+  "SkillMoveEffectiveRateDropRepeatRegularType": 0.2,
+  "ATTR_DribbleJogAcceleration": 0.005,
+  "SprintAccelerationBoost_Scalar_Loco_Explosive_HighSpeed": 3.0,
+  "ATTR_JogAcceleration": 0.005,
+  "SprintAccelerationBoost_Scalar_LowHighSpeedBoundary_Controlled": 0.3,
+  "DribbleTrapKnockOnMaxPowerMultiplier": 2.0,
+  "DribbleFootStepBranchDelayTimeAttribBase": 0.6,
+  "TrapFlickUpAirBallTargetTimeLowPower": 40.0,
+  "DribbleTrapQuickKnockOnPower": 0.7,
+  "ATTR_DribbleMinTouchStretchPenalty": 2.0,
+  "SkillMoveEffectiveRateRecoverTimeMax": 60.0,
+  "SprintAccelerationBoost_Scalar_LowHighSpeedBoundary_Explosive": 0.3,
+  "SprintAccelerationBoost_BlendOut": 16.0,
+  "SprintAccelerationBoost_Scalar_Loco_Lengthy_LowSpeed": 3.0,
+  "SprintAccelerationBoost_Scalar_Loco_Lengthy_HighSpeed": 3.0,
+  "DribbleTrapSprintBoostBallTargetTime": 40.0,
+  "ATTR_SkillMovesTimeRatioForMaxAttrib5StarLowSkillAnim": 0.92,
+  "SprintAccelerationBoost_Scalar_Loco_Controlled_LowSpeed": 3.0,
+  "ATTR_DribbleJogSpeed": 0.23,
+  "SprintAccelerationBoost_Scalar_Dribble_Controlled_LowSpeed": 3.0,
+  "SprintAccelerationBoost_Scalar_Dribble_Lengthy_LowSpeed": 3.0,
+  "SprintAccelerationBoost_Duration": 8.0,
+  "ATTR_DribbleWalkAcceleration": 0.005,
+  "SkillMoveEffectiveRateDropRepeatDifficultType": 0.3,
+  "DribbleTrapSprintBallTargetTime": 50.0,
+  "SprintAccelerationBoost_Downtime": 30.0,
+  "ATTR_DribbleWalkSpeed": 0.2,
+  "GameSpeedFastUpperRange": 0.7,
+  "DribbleTrapKnockOnBallTargetTimeLowPower": 60.0,
+  "ATTR_WalkSpeed": 0.1,
+  "GameSpeedNormalLowerRange": 0.15,
+  "SprintAccelerationBoost_Scalar_Loco_Controlled_HighSpeed": 3.0,
+  "DribbleTrapSuperKnockOnMaxPower": 1.5,
+  "SprintAccelerationBoost_Scalar_LowHighSpeedBoundary_Lengthy": 0.3,
+  "ATTR_DribbleMinTouchInterruptPenalty": 2.0,
+  "ATTR_WalkAcceleration": 0.005,
+  "TrapFlickBallTargetTimeLowPower": 40.0,
+  "SkillMoveEffectiveRateRecoverTimeMin": 30.0,
+  "ATTR_SkillMovesTimeRatioForMaxAttrib5Star": 0.8,
+  "SkillMoveEffectiveRateDropDifficultType": 0.225,
+  "SkillMoveEffectiveRateDropRegularType": 0.15,
+  "DribbleTrapShieldBallTargetTime": 40.0,
+  "SprintAccelerationBoost_Scalar_Dribble_Lengthy_HighSpeed": 3.0,
+  "TrapFlickBallTargetTimeHighPower": 40.0,
+  "SprintAccelerationBoost_Scalar_Dribble_Explosive_HighSpeed": 3.0,
+  "DribbleFootStepBranchMaxDelayTimeBase": 20.0,
+  "DribbleTrapKnockOnBallTargetTimeHighPower": 100.0,
+  "DribbleTrapQuickSuperKnockOnPower": 1.5,
+  "SkillMoveEffectiveRateRecoverPerTick": 0.015,
+  "DribbleTrapAgileCloseBallTargetTime": 20.0,
+  "GameSpeedFastLowerRange": 0.25,
+  "SprintAccelerationBoost_Scalar_Loco_Explosive_LowSpeed": 3.0,
+  "TrapFlickUpAirBallTargetTimeHighPower": 130.0,
+  "BaseField": 0,
+  "Name": {
+    "StrValue": "Fifa/Attribulator/Gameplay/groups/gp_actor/gp_actor_movement_runtime"
+  },
+  "__InstanceGuid": {
+    "ExportedGuid": "122e3892-9428-d292-65b8-f158a65837a1",
+    "InternalId": 0,
+    "IsExported": true
+  }
+}
