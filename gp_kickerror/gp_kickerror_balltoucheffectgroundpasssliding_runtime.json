@@ -238,7 +238,7 @@
           "X": 0.7,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.5,
+          "Y": 0.2,
           "InTangentOffsetX": -0.09989995,
           "OutTangentOffsetX": 0.09990001
         },
@@ -247,7 +247,7 @@
           "X": 0.8,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.8,
+          "Y": 0.55,
           "InTangentOffsetX": -0.09990001,
           "OutTangentOffsetX": 0.09989995
         },
@@ -256,13 +256,13 @@
           "X": 0.9,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.95,
+          "Y": 0.85,
           "InTangentOffsetX": -0.09989995,
           "OutTangentOffsetX": 0.08990002
         },
         {
           "CurveType": 2,
-          "X": 0.99,
+          "X": 1.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
           "Y": 1.0,

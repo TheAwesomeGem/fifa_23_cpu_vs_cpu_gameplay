@@ -746,7 +746,7 @@
           "X": 0.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 35.0,
+          "Y": 17.5,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -755,7 +755,7 @@
           "X": 0.1,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 17.0,
+          "Y": 8.5,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -764,7 +764,7 @@
           "X": 0.247557,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 17.0,
+          "Y": 8.5,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -773,7 +773,7 @@
           "X": 0.5,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 16.0,
+          "Y": 8.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -782,7 +782,7 @@
           "X": 0.75,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 14.0,
+          "Y": 7.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -791,7 +791,7 @@
           "X": 1.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 14.0,
+          "Y": 7.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -800,7 +800,7 @@
           "X": 1.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 12.0,
+          "Y": 6.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -809,7 +809,7 @@
           "X": 1.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 12.0,
+          "Y": 6.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         }
@@ -836,7 +836,7 @@
           "X": 0.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 14.0,
+          "Y": 24.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -845,7 +845,7 @@
           "X": 0.1,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 12.0,
+          "Y": 22.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -854,7 +854,7 @@
           "X": 0.25,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 12.0,
+          "Y": 22.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -863,7 +863,7 @@
           "X": 0.5,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 8.0,
+          "Y": 18.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -872,7 +872,7 @@
           "X": 0.75,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 4.0,
+          "Y": 14.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -881,7 +881,7 @@
           "X": 1.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.0,
+          "Y": 10.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -890,7 +890,7 @@
           "X": 1.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.0,
+          "Y": 10.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -899,7 +899,7 @@
           "X": 1.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.0,
+          "Y": 10.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         }
@@ -1106,7 +1106,7 @@
           "X": 0.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 40.0,
+          "Y": 50.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -1115,7 +1115,7 @@
           "X": 0.1,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 20.0,
+          "Y": 30.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -1142,7 +1142,7 @@
           "X": 0.75,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 15.0,
+          "Y": 17.5,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -1151,7 +1151,7 @@
           "X": 1.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 2.0,
+          "Y": 11.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -1160,7 +1160,7 @@
           "X": 1.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 2.0,
+          "Y": 11.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -1169,7 +1169,7 @@
           "X": 1.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 2.0,
+          "Y": 11.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         }
@@ -1204,7 +1204,7 @@
           "X": 0.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 30.0,
+          "Y": 15.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -1213,7 +1213,7 @@
           "X": 0.1,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 14.04,
+          "Y": 7.02,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -1222,7 +1222,7 @@
           "X": 0.2638437,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 14.03571,
+          "Y": 7.03571,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -1231,7 +1231,7 @@
           "X": 0.5,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 14.0,
+          "Y": 7.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -1240,7 +1240,7 @@
           "X": 0.75,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 8.0,
+          "Y": 4.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -1294,7 +1294,7 @@
           "X": 0.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 40.0,
+          "Y": 50.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -1303,7 +1303,7 @@
           "X": 0.1,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 20.0,
+          "Y": 30.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -1330,7 +1330,7 @@
           "X": 0.75,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 15.0,
+          "Y": 17.5,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -1339,7 +1339,7 @@
           "X": 1.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 15.0,
+          "Y": 17.5,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -1348,7 +1348,7 @@
           "X": 1.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 15.0,
+          "Y": 17.5,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -1357,7 +1357,7 @@
           "X": 1.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 15.0,
+          "Y": 17.5,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         }

@@ -1,557 +1,5 @@
 {
-  "PushPull_FallContextRecoverBalance": [
-    0.25,
-    3.0
-  ],
-  "PushPull_FallHarassmentIncreaseHold": {
-    "External": {
-      "FileGuid": "00000000-0000-0000-0000-000000000000",
-      "ClassGuid": "00000000-0000-0000-0000-000000000000"
-    },
-    "Internal": {
-      "Points": [
-        {
-          "CurveType": 2,
-          "X": 0.4690554,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.043,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 1.074919,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.0465,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 1.641694,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.0505,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 2.221498,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.0605,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 2.749186,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.075,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 3.224756,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.09200002,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 3.589576,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.113,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 3.973941,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.1375,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        }
-      ],
-      "MaxX": 4.0,
-      "MinX": 0.0,
-      "__InstanceGuid": {
-        "ExportedGuid": "4e7d550d-a769-f0a2-6327-5d51092d6a0a",
-        "InternalId": 1,
-        "IsExported": true
-      }
-    },
-    "Type": 1
-  },
-  "PushPull_FallContextIncreaseStrength": [
-    1.25,
-    0.75
-  ],
-  "PushPull_FallContextIncreaseBalance": [
-    3.0,
-    1.0
-  ],
-  "PushPull_HeldSpeedAdjust_Strength": {
-    "External": {
-      "FileGuid": "00000000-0000-0000-0000-000000000000",
-      "ClassGuid": "00000000-0000-0000-0000-000000000000"
-    },
-    "Internal": {
-      "Points": [
-        {
-          "CurveType": 2,
-          "X": -0.4,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 1.0,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": -0.2,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.95,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": -0.1,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.9,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": -0.05,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.85,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.05,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.8,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.1,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.75,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.2,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.7,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.4,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.65,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        }
-      ],
-      "MaxX": 0.4,
-      "MinX": -0.4,
-      "__InstanceGuid": {
-        "ExportedGuid": "9902e465-1463-58c4-3cdf-52bbdba1de23",
-        "InternalId": 4,
-        "IsExported": true
-      }
-    },
-    "Type": 1
-  },
-  "PushPull_BalanceIntensityScale": {
-    "External": {
-      "FileGuid": "00000000-0000-0000-0000-000000000000",
-      "ClassGuid": "00000000-0000-0000-0000-000000000000"
-    },
-    "Internal": {
-      "Points": [
-        {
-          "CurveType": 2,
-          "X": 0.0,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.75,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.3,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.75,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.4,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.8000002,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.55,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 1.0,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.65,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 1.5,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.75,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 2.0,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.85,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 3.0,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.9,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 3.0,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        }
-      ],
-      "MaxX": 1.0,
-      "MinX": 0.0,
-      "__InstanceGuid": {
-        "ExportedGuid": "bfeb0fd4-b5ec-bd08-dcb2-01a61202b6b2",
-        "InternalId": 10,
-        "IsExported": true
-      }
-    },
-    "Type": 1
-  },
-  "PushPull_MashRateIntensityRampUp": {
-    "External": {
-      "FileGuid": "00000000-0000-0000-0000-000000000000",
-      "ClassGuid": "00000000-0000-0000-0000-000000000000"
-    },
-    "Internal": {
-      "Points": [
-        {
-          "CurveType": 2,
-          "X": 0.0,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 2.0,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.14,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 1.75,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.28,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 1.5,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.42,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 1.25,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.56,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 1.0,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.7,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.75,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.85,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.5,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 1.0,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.5,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        }
-      ],
-      "MaxX": 1.0,
-      "MinX": 0.0,
-      "__InstanceGuid": {
-        "ExportedGuid": "7c3fff23-7144-8863-44b0-f30a575f66e5",
-        "InternalId": 2,
-        "IsExported": true
-      }
-    },
-    "Type": 1
-  },
-  "PushPull_PullSpeedAdjust_Strength": {
-    "External": {
-      "FileGuid": "00000000-0000-0000-0000-000000000000",
-      "ClassGuid": "00000000-0000-0000-0000-000000000000"
-    },
-    "Internal": {
-      "Points": [
-        {
-          "CurveType": 2,
-          "X": -0.4,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.08,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": -0.2,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.08,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": -0.1,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.07,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": -0.05,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.06,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.05,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.05,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.1,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.04,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.2,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.03,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.4,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.0,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        }
-      ],
-      "MaxX": 0.4,
-      "MinX": -0.4,
-      "__InstanceGuid": {
-        "ExportedGuid": "55d38799-1e07-361c-c4fe-5c68e3436ece",
-        "InternalId": 7,
-        "IsExported": true
-      }
-    },
-    "Type": 1
-  },
-  "PushPull_StrengthDiffReductionScale": {
-    "External": {
-      "FileGuid": "00000000-0000-0000-0000-000000000000",
-      "ClassGuid": "00000000-0000-0000-0000-000000000000"
-    },
-    "Internal": {
-      "Points": [
-        {
-          "CurveType": 2,
-          "X": -0.3,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 1.0,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": -0.2,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 1.0,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": -0.1,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 1.0,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.0,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 1.0,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.05,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.75,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.15,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.5,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.3,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.35,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.4,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.3,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        }
-      ],
-      "MaxX": 0.4,
-      "MinX": -0.4,
-      "__InstanceGuid": {
-        "ExportedGuid": "46a6a1e3-173d-d2a9-1639-124790eaee4f",
-        "InternalId": 11,
-        "IsExported": true
-      }
-    },
-    "Type": 1
-  },
-  "PushPull_HarassmentIncreaseShirtPulled": {
+  "DRIBBLE_ERROR_RollEffect": {
     "External": {
       "FileGuid": "00000000-0000-0000-0000-000000000000",
       "ClassGuid": "00000000-0000-0000-0000-000000000000"
@@ -564,96 +12,6 @@
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
           "Y": 0.0,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.006514658,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.8428571,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.1693811,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.3321428,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.6840391,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.2178571,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 1.322476,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.1321428,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 2.117264,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.1107143,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 2.95114,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.1785714,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 3.732899,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.35,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        }
-      ],
-      "MaxX": 4.0,
-      "MinX": 0.0,
-      "__InstanceGuid": {
-        "ExportedGuid": "c56a9c89-485d-791e-38b5-b3ac462ac922",
-        "InternalId": 6,
-        "IsExported": true
-      }
-    },
-    "Type": 1
-  },
-  "PushPull_StumbleTouchThreshold": {
-    "External": {
-      "FileGuid": "00000000-0000-0000-0000-000000000000",
-      "ClassGuid": "00000000-0000-0000-0000-000000000000"
-    },
-    "Internal": {
-      "Points": [
-        {
-          "CurveType": 2,
-          "X": 0.0,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.4,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -662,7 +20,7 @@
           "X": 0.125,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.45,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -671,7 +29,7 @@
           "X": 0.25,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.47,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -680,7 +38,7 @@
           "X": 0.375,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.5,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -689,7 +47,7 @@
           "X": 0.5,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.52,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -698,7 +56,7 @@
           "X": 0.625,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.57,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -707,16 +65,16 @@
           "X": 0.75,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.6,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
         {
           "CurveType": 2,
-          "X": 1.0,
+          "X": 0.875,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.62,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         }
@@ -724,104 +82,14 @@
       "MaxX": 1.0,
       "MinX": 0.0,
       "__InstanceGuid": {
-        "ExportedGuid": "d13b70a7-b8db-8ee8-1559-4a7f72364a21",
-        "InternalId": 8,
+        "ExportedGuid": "5974cf5c-9276-9589-b022-07a249973c42",
+        "InternalId": 5,
         "IsExported": true
       }
     },
     "Type": 1
   },
-  "PushPull_StrengthDiffIntensityScale": {
-    "External": {
-      "FileGuid": "00000000-0000-0000-0000-000000000000",
-      "ClassGuid": "00000000-0000-0000-0000-000000000000"
-    },
-    "Internal": {
-      "Points": [
-        {
-          "CurveType": 2,
-          "X": -0.4,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.7,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": -0.2,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.7,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": -0.1,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.85,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": -0.05,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 0.93,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.05,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 1.1,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.1,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 1.18,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.2,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 1.3,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        },
-        {
-          "CurveType": 2,
-          "X": 0.4,
-          "OutTangentOffsetY": 0.0,
-          "InTangentOffsetY": 0.0,
-          "Y": 1.3,
-          "InTangentOffsetX": -1.0,
-          "OutTangentOffsetX": 1.0
-        }
-      ],
-      "MaxX": 0.4,
-      "MinX": -0.4,
-      "__InstanceGuid": {
-        "ExportedGuid": "4642bacf-fd03-836b-afd1-244f1c0f641b",
-        "InternalId": 9,
-        "IsExported": true
-      }
-    },
-    "Type": 1
-  },
-  "PushPull_ReactionIntensityBalanceEffect": {
+  "DRIBBLE_ERROR_LowAttributeLowDifficulty": {
     "External": {
       "FileGuid": "00000000-0000-0000-0000-000000000000",
       "ClassGuid": "00000000-0000-0000-0000-000000000000"
@@ -833,7 +101,97 @@
           "X": 0.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 1.2,
+          "Y": 0.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.2899023,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.02,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.5407166,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.024,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.7263843,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.036,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8094463,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.044,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8631922,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.06,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.9169381,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.082,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.09,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "15c3e9dd-2313-4bc7-a23d-2a434908f5ff",
+        "InternalId": 9,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "DRIBBLE_ERROR_DirectionEffect": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -842,61 +200,61 @@
           "X": 0.125,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 1.25,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
         {
           "CurveType": 2,
-          "X": 0.275,
+          "X": 0.25,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 1.45,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
         {
           "CurveType": 2,
-          "X": 0.4,
+          "X": 0.375,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 2.0,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
         {
           "CurveType": 2,
-          "X": 0.55,
+          "X": 0.5,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 2.2,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
         {
           "CurveType": 2,
-          "X": 0.675,
+          "X": 0.625,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 2.5,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
         {
           "CurveType": 2,
-          "X": 0.85,
+          "X": 0.75,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 3.5,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
         {
           "CurveType": 2,
-          "X": 1.0,
+          "X": 0.875,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 5.0,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         }
@@ -904,18 +262,14 @@
       "MaxX": 1.0,
       "MinX": 0.0,
       "__InstanceGuid": {
-        "ExportedGuid": "ca36326e-16e7-f08e-3e56-8703b80e7897",
-        "InternalId": 5,
+        "ExportedGuid": "f28b1650-00ba-20a3-4a89-a458cd2971bc",
+        "InternalId": 3,
         "IsExported": true
       }
     },
     "Type": 1
   },
-  "PushPull_FallContextRecoverStrength": [
-    0.75,
-    1.25
-  ],
-  "PushPull_MashRateIntensityScale": {
+  "DRIBBLE_ERROR_PitchEffect": {
     "External": {
       "FileGuid": "00000000-0000-0000-0000-000000000000",
       "ClassGuid": "00000000-0000-0000-0000-000000000000"
@@ -927,61 +281,151 @@
           "X": 0.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 1.0,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
         {
           "CurveType": 2,
-          "X": 0.14,
+          "X": 0.125,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.965,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
         {
           "CurveType": 2,
-          "X": 0.28,
+          "X": 0.25,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.93,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
         {
           "CurveType": 2,
-          "X": 0.42,
+          "X": 0.375,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.895,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
         {
           "CurveType": 2,
-          "X": 0.56,
+          "X": 0.5,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.86,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
         {
           "CurveType": 2,
-          "X": 0.7,
+          "X": 0.625,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.825,
+          "Y": 0.0,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
         {
           "CurveType": 2,
-          "X": 0.85,
+          "X": 0.75,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.78,
+          "Y": 0.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.875,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "83e0a25f-6589-2838-2d8d-43767b50beb3",
+        "InternalId": 6,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "DRIBBLE_ERROR_PerfectAttributeHighDifficulty": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.2,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.223127,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.27,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.4087948,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.3,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.6270359,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.425,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8029316,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.535,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8908795,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.664,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.9478827,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.7,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         },
@@ -990,7 +434,7 @@
           "X": 1.0,
           "OutTangentOffsetY": 0.0,
           "InTangentOffsetY": 0.0,
-          "Y": 0.75,
+          "Y": 0.72,
           "InTangentOffsetX": -1.0,
           "OutTangentOffsetX": 1.0
         }
@@ -998,26 +442,379 @@
       "MaxX": 1.0,
       "MinX": 0.0,
       "__InstanceGuid": {
-        "ExportedGuid": "290ff063-34f2-5f8b-aeb7-67d4a1a6b279",
-        "InternalId": 3,
+        "ExportedGuid": "f4233619-6852-105c-58d8-95a72a7a3647",
+        "InternalId": 2,
         "IsExported": true
       }
     },
     "Type": 1
   },
-  "PushPull_FallThreshold": 0.5,
-  "PushPull_TicksIntoReactForStumble": 6.0,
-  "PushPull_MedIntensityThreshold": 0.4,
-  "PushPull_FallHarassmentIncreaseRate": 45.0,
-  "PushPull_HighIntensityThreshold": 0.5,
-  "PushPull_TicksBeforeTouchForStumble": 4.0,
-  "PushPull_FallHarassmentRecoverRate": 0.01,
+  "DRIBBLE_ERROR_SpeedEffect": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.1644951,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.1071428,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.3680782,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.1285714,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.534202,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.1642857,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.6938111,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.1857142,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8322476,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.2071428,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.9348534,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.2357143,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.990228,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.25,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "b0f9795a-f52c-8ea9-ff3a-f5c33c60cb13",
+        "InternalId": 4,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "DRIBBLE_ERROR_ElevationEffect": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.125,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.25,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.375,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.5,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.625,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.75,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.875,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "daf43310-7f41-fb31-7d6e-d40a0b58e4b6",
+        "InternalId": 1,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "DRIBBLE_ERROR_LowAttributeHighDifficulty": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.3,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.1,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.48,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.2,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.56,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.48,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.62,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.7540717,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.74,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8420196,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.86,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8957655,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.96,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 1.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "de32d78b-7fbb-94ac-f433-6cf6a97a16a4",
+        "InternalId": 8,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "DRIBBLE_ERROR_PerfectAttributeLowDifficulty": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.0,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.218241,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.01,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.514658,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.018,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.7833876,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.028,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.8729641,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.036,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.9201955,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.041,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 0.9625407,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.05,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        },
+        {
+          "CurveType": 2,
+          "X": 1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.06,
+          "InTangentOffsetX": -1.0,
+          "OutTangentOffsetX": 1.0
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "99ed5868-57b8-cff7-bcd3-682d6e94b044",
+        "InternalId": 7,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
   "BaseField": 0,
   "Name": {
-    "StrValue": "Fifa/Attribulator/Gameplay/groups/gp_defense/gp_defense_pushpull_runtime"
+    "StrValue": "Fifa/Attribulator/Gameplay/groups/gp_kickerror/gp_kickerror_dribblemissrateoverhit_runtime"
   },
   "__InstanceGuid": {
-    "ExportedGuid": "a8d40e7c-345f-7ffe-e7ac-dd45946cec4d",
+    "ExportedGuid": "4a4ffc16-fd46-0f92-7555-395ed74a0058",
     "InternalId": 0,
     "IsExported": true
   }

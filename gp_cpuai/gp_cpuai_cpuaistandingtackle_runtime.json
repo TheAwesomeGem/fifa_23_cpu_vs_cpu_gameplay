@@ -737,7 +737,7 @@
     },
     "Type": 1
   },
-  "CPUAI_StandingTackle_RangeModifier_PlayerDivesIntoTackle": 1.25,
+  "CPUAI_StandingTackle_RangeModifier_PlayerDivesIntoTackle": 1.15,
   "CPUAI_StandingTackle_RangeModifier_AggressionTactic": 1.05,
   "BaseField": 0,
   "Name": {
