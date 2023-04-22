@@ -1,0 +1,52 @@
+{
+  "DribbleTTDistToTargetWeight": [
+    0.5,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "GroundPassDecisionMinCourseSafety": 0.99,
+  "TraitLateCrosserCrossReceiverDistFromPKSpot": 70.0,
+  "GroundPassDecisionDribbleMinSpace": 0.05,
+  "CrossReceiverDistFromPKSpot": 50.0,
+  "TraitDivesTacklesSlideTackleProbability": 1.0,
+  "TraitSelfishGroundPassDecisionDistToTargetMod": 2.0,
+  "TraitOneTimePasserGroundPassDecisionDistToTargetMod": 1.05,
+  "TraitSpeedDribblerSprintSafetyForStop": 0.7,
+  "TraitPlayMakerGroundPassDecisionMinCourseSafety": 0.99,
+  "TraitEarlyCrosserCrossReceiverDistFromPKSpot": 70.0,
+  "TraitLongShotTakerMaxShotFreedomWeight": 0.7,
+  "TraitLongPasserMinSpaceMod": 0.7,
+  "SlideTackleProbability": 0.7,
+  "GroundPassDecisionDistToTargetMod": 1.5,
+  "TraitSelfishGroundPassDecisionDribbleMinSpace": 0.03,
+  "TraitPlayMakerGroundPassDecisionDribbleMinSpace": 0.04,
+  "FinesseShotProbability": 0.5,
+  "GroundPassDecisionSpaceRatingMod": 2.5,
+  "TraitThroughPasserThroughPassMod": 0.92,
+  "TraitOneTimePasserGroundPassDecisionMinCourseSafety": 0.95,
+  "TraitPlayMakerPassMod": 1.1,
+  "TraitPlayMakerGroundPassDecisionSpaceRatingMod": 2.7,
+  "ThroughPassMod": 0.95,
+  "TraitLongPasserMinRatingMod": 0.8,
+  "TraitSelfishGroundPassDecisionSpaceRatingMod": 3.0,
+  "TraitPlayMakerGroundPassDecisionDistToTargetMod": 1.7,
+  "TraitOneTimePasserGroundPassDecisionDribbleMinSpace": 0.3,
+  "TraitSwitchFlankMinRatingMod": 0.6,
+  "TraitSwitchFlankMinSpaceMod": 0.6,
+  "TraitSpeedDribblerSprintSafetyForStart": 0.9,
+  "TraitSelfishGroundPassDecisionMinCourseSafety": 0.995,
+  "OneTimePassProbabilityMod": 0.2,
+  "TraitFinesseShotProbability": 0.8,
+  "TraitOneTimePasserGroundPassDecisionSpaceRatingMod": 1.1,
+  "BaseField": 0,
+  "Name": {
+    "StrValue": "Fifa/Attribulator/Gameplay/groups/gp_cpuai/gp_cpuai_cpuaiballhandler_runtime"
+  },
+  "__InstanceGuid": {
+    "ExportedGuid": "f109cef9-f9f8-fa39-42d8-ea85960a75f2",
+    "InternalId": 0,
+    "IsExported": true
+  }
+}

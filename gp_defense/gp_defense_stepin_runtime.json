@@ -1,0 +1,53 @@
+{
+  "StepIn_minDistFromTargetToOpp": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 3,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.5,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.099999994
+        },
+        {
+          "CurveType": 1,
+          "X": 0.4,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": -0.10840708,
+          "Y": 0.5,
+          "InTangentOffsetX": -0.05251047,
+          "OutTangentOffsetX": 0.10000017
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "2c6ece66-b340-2dac-7d6a-3c35a7426939",
+        "InternalId": 1,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "StepIn_minSpeed": 0.22,
+  "StepIn_maxTicksToTriggerAfterLTRelease": 12.0,
+  "StepIn_oppDistToBallFuture": 11.0,
+  "StepIn_minDistanceFromTarget": 1.0,
+  "StepIn_maxDistanceFromTarget": 7.0,
+  "StepIn_maxRunOutAngle": 70.0,
+  "BaseField": 0,
+  "Name": {
+    "StrValue": "Fifa/Attribulator/Gameplay/groups/gp_defense/gp_defense_stepin_runtime"
+  },
+  "__InstanceGuid": {
+    "ExportedGuid": "0b220618-76dd-bd21-d04b-74b3bc4b158c",
+    "InternalId": 0,
+    "IsExported": true
+  }
+}

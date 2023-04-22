@@ -107,7 +107,7 @@
   "TimeToChangeDirectionAtStop": 0.266667,
   "StopRadius": 1.5,
   "StopDistanceFnUnit": 6.0,
-  "ActorBaseMaxSpeed": 34.0,
+  "ActorBaseMaxSpeed": 29.0,
   "DistanceToStopAtFullSpeed": 9.0,
   "OversteerMagnification": 2.0,
   "BaseField": 0,

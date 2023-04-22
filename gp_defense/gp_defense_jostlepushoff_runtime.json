@@ -1,0 +1,84 @@
+{
+  "JostlePushOff_StrengthFactor": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": -0.4,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 1.3,
+          "InTangentOffsetX": -0.20000002,
+          "OutTangentOffsetX": 0.2
+        },
+        {
+          "CurveType": 0,
+          "X": 0.39999998,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.7,
+          "InTangentOffsetX": -0.006176144,
+          "OutTangentOffsetX": 1.0
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": -1.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "57b545f5-49a0-e1b0-9810-e63ee02f93a6",
+        "InternalId": 2,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "JostlePushOff_PushOffDelay": {
+    "External": {
+      "FileGuid": "00000000-0000-0000-0000-000000000000",
+      "ClassGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "Internal": {
+      "Points": [
+        {
+          "CurveType": 2,
+          "X": 0.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 0.5,
+          "InTangentOffsetX": -0.1,
+          "OutTangentOffsetX": 0.1
+        },
+        {
+          "CurveType": 2,
+          "X": 1.0,
+          "OutTangentOffsetY": 0.0,
+          "InTangentOffsetY": 0.0,
+          "Y": 4.5,
+          "InTangentOffsetX": -0.100000024,
+          "OutTangentOffsetX": 0.100000024
+        }
+      ],
+      "MaxX": 1.0,
+      "MinX": 0.0,
+      "__InstanceGuid": {
+        "ExportedGuid": "84e232ae-403d-5d68-2220-020c2d4bfcc4",
+        "InternalId": 1,
+        "IsExported": true
+      }
+    },
+    "Type": 1
+  },
+  "JostlePushOff_StrengthWeight": 0.5,
+  "BaseField": 0,
+  "Name": {
+    "StrValue": "Fifa/Attribulator/Gameplay/groups/gp_defense/gp_defense_jostlePushOff_runtime"
+  },
+  "__InstanceGuid": {
+    "ExportedGuid": "5ade8f92-6ad5-92bf-45b2-0b6047d3e4a5",
+    "InternalId": 0,
+    "IsExported": true
+  }
+}

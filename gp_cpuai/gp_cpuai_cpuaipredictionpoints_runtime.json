@@ -1,0 +1,32 @@
+{
+  "PredictionPointMinMovementDelta": [
+    0.3,
+    0.3,
+    0.3,
+    0.3,
+    0.5
+  ],
+  "PredictionPointMaxMovementDistance": [
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    70.0
+  ],
+  "PredictionPointMaxSpaceDistance": [
+    70.0,
+    50.0,
+    50.0,
+    50.0,
+    50.0
+  ],
+  "BaseField": 0,
+  "Name": {
+    "StrValue": "Fifa/Attribulator/Gameplay/groups/gp_cpuai/gp_cpuai_cpuaipredictionpoints_runtime"
+  },
+  "__InstanceGuid": {
+    "ExportedGuid": "44c05bb7-8720-b681-9a33-3ed653b0a6f6",
+    "InternalId": 0,
+    "IsExported": true
+  }
+}
